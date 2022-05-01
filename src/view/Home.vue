@@ -14,8 +14,7 @@
       </el-container>
       <el-footer height="20px">
           <my-footer></my-footer>
-        </el-footer>
-      </el-container>
+      </el-footer>
     </el-container>
   </div> 
 </template>
